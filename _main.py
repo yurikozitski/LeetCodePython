@@ -1,3 +1,3 @@
-from CapitalizeTheTitle_2129 import CapitalizeTitle
+from LargestTriangleArea_812 import LargestTriangleArea
 
-print(CapitalizeTitle().capitalizeTitle("First leTTeR of EACH Word"))
+print(LargestTriangleArea().largestTriangleArea([[1,0],[0,0],[0,1]]))
